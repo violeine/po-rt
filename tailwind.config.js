@@ -4,7 +4,7 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     fontFamily: {
-      sans: ["Inter var", ...defaultTheme.fontFamily.sans],
+      sans: ["Lexend Deca", ...defaultTheme.fontFamily.sans],
     },
   },
   variants: {
